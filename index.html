@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+<style>
+  #container {
+    height: 100%;
+    min-height: 560px;
+    position: relative;
+  }
+  .card {
+    position: relative;
+    height: 10em;
+    width: 6.5em;
+    float: left;
+  }
+  .p1 {
+    border: .3em solid purple;
+    margin: 5px
+  }
+
+  .p2 {
+    border: .3em solid green;
+    margin: 5px
+  }
+
+  #p1Arena {
+    clear: both;
+    height: 1px;
+    margin-bottom: 50px;
+  }
+
+  #p2Arena {
+    position: absolute;
+    bottom: 0;
+    clear: both;
+  }
+
+  .title {
+    font-weight: bold;
+    text-align: center;
+    display: block;
+  }
+
+  .attack {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+
+  .health {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+  }
+
+</style>
+</head>
+
+<body>
+
+  <div id='container'>
+    <div id="p1Arena"></div>
+    <div id="p2Arena"></div>
+  </div>
+  <script src="lib/jquery.js"></script>
+  <script src="lib/lodash.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

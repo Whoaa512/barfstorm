@@ -1,0 +1,1612 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"etc",
+				"envelopeToCompare"
+			],
+			[
+				"compd",
+				"computedStatus"
+			],
+			[
+				"md",
+				"myDriver"
+			],
+			[
+				"Env",
+				"EnvelopeList"
+			],
+			[
+				"_f",
+				"_filterByStatus"
+			],
+			[
+				"waiting",
+				"waiting_for_others"
+			],
+			[
+				"enl",
+				"envelopeList"
+			],
+			[
+				"ds",
+				"displayed"
+			],
+			[
+				"stat",
+				"statusDisplayed"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"smd",
+				"sendMouseDownByCss"
+			],
+			[
+				"errr",
+				"error"
+			],
+			[
+				"css",
+				"cssSelector"
+			],
+			[
+				"mod",
+				"trailing_spaces_modified_lines_only	setting"
+			],
+			[
+				"fas",
+				"false"
+			],
+			[
+				"chse",
+				"checkForSummaryElem"
+			],
+			[
+				"enD",
+				"envelopeDetails"
+			],
+			[
+				"clickBac",
+				"clickBackToDocs"
+			],
+			[
+				"doc",
+				"documents"
+			],
+			[
+				"phd",
+				"pageHasBackToDocsButton"
+			],
+			[
+				"bac",
+				"back_to_docs_list_html"
+			],
+			[
+				"relad",
+				"reloadPage"
+			],
+			[
+				"wad",
+				"waitTillDoneSaving"
+			],
+			[
+				"exd",
+				"expireDate"
+			],
+			[
+				"clcss",
+				"clickCssWashout"
+			],
+			[
+				"impl",
+				"implemented"
+			],
+			[
+				"waifu",
+				"waitForUrlToChange"
+			],
+			[
+				"waitF",
+				"waitForUrl"
+			],
+			[
+				"conf",
+				"confirmEnvelopeId"
+			],
+			[
+				"env",
+				"envelope"
+			],
+			[
+				"nv",
+				"navigation"
+			],
+			[
+				"na",
+				"navigation"
+			],
+			[
+				"nav",
+				"navigate"
+			],
+			[
+				"bef",
+				"beforeEach"
+			],
+			[
+				"w",
+				"winston"
+			],
+			[
+				"scre",
+				"screenshot"
+			],
+			[
+				"expat",
+				"expiration"
+			],
+			[
+				"expir",
+				"expire_after_path"
+			],
+			[
+				"da",
+				"days"
+			],
+			[
+				"d",
+				"done"
+			],
+			[
+				"getA",
+				"getAttributeValueByCss"
+			],
+			[
+				"war",
+				"warn"
+			],
+			[
+				"_che",
+				"_checkForElem"
+			],
+			[
+				"chop",
+				"checkProperHtml"
+			],
+			[
+				"chee",
+				"checkForElem"
+			],
+			[
+				"do",
+				"done"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"das",
+				"daysAfter"
+			],
+			[
+				"setRe",
+				"setReminderRepeatInterval"
+			],
+			[
+				"setd",
+				"setDaysAfterReceipt"
+			],
+			[
+				"adV",
+				"advancedOptions"
+			],
+			[
+				"checkFor",
+				"checkForLink"
+			],
+			[
+				"isC",
+				"isCheckedByCss"
+			],
+			[
+				"exss",
+				"exists"
+			],
+			[
+				"modh",
+				"modalHasReminders"
+			],
+			[
+				"ex",
+				"expirations"
+			],
+			[
+				"pagh",
+				"pageHasAdvancedOptionsLink"
+			],
+			[
+				"adv",
+				"advancedOptions"
+			],
+			[
+				"getChi",
+				"getChildrenElementsByCss"
+			],
+			[
+				"expec",
+				"expectedHtmlText"
+			],
+			[
+				"Pr",
+				"Privileges"
+			],
+			[
+				"n",
+				"next"
+			],
+			[
+				"shor",
+				"shortWait"
+			],
+			[
+				"advanced_option",
+				"advanced_options_link_text"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"not",
+				"notification_form_section"
+			],
+			[
+				"Adv",
+				"AdvancedOptions"
+			],
+			[
+				"as",
+				"async"
+			],
+			[
+				"p",
+				"params"
+			],
+			[
+				"ee",
+				"escapeHtmlChar"
+			],
+			[
+				"soc",
+				"source"
+			],
+			[
+				"Reg",
+				"RegExp"
+			],
+			[
+				"iter",
+				"iterator"
+			],
+			[
+				"resl",
+				"result"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"Fun",
+				"function"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"ins",
+				"instanceof"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"pr",
+				"prop"
+			],
+			[
+				"for",
+				"foro	Object comprehension"
+			],
+			[
+				"asyn",
+				"async_waterfall	async_waterfall"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"scroll",
+				"scroll_past_end	setting"
+			],
+			[
+				"scrol",
+				"scroll_past_end	setting"
+			],
+			[
+				"take",
+				"takeScreenshot"
+			],
+			[
+				"dis",
+				"dismissAlert"
+			],
+			[
+				"dele",
+				"deleteRecipient"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "readme.md",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 290.0,
+		"selected_items":
+		[
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"e",
+				"Package Control: Enable Package"
+			],
+			[
+				"m",
+				"Set Syntax: Markdown"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"d",
+				"Package Control: Disable Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"b",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"smart",
+				"Convert Case: Smart Title Case"
+			],
+			[
+				"s",
+				"Set Syntax: Stylus"
+			],
+			[
+				"jd",
+				"Set Syntax: Jade"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"bl",
+				"Git: Blame"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"css",
+				"Snippet: css_font"
+			],
+			[
+				"setting",
+				"Preferences: Settings - Default"
+			],
+			[
+				"",
+				"Agile: Create New Sprint"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"c",
+				"Coffee: Goto Definition"
+			],
+			[
+				"coffeescript",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"ba",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"us",
+				"Preferences: Settings - User"
+			],
+			[
+				"def",
+				"Coffee: Goto Definition"
+			],
+			[
+				"coffee",
+				"Coffee: Goto Definition"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"remp",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"appl",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 534.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/carey.winslow/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/carey.winslow/.zshrc",
+		"/Users/carey.winslow/work/Docs/Sending Preferences test cases[HP].md",
+		"/Users/carey.winslow/work/app/templates/send/document-advanced-options.jade",
+		"/Users/carey.winslow/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/carey.winslow/Library/Application Support/Sublime Text 3/Installed Packages/Select Quoted.sublime-package",
+		"/Users/carey.winslow/work/app/client/js/global/base/view.js",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/lib/DriverWrapper.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/generic-sending/cloud-provider.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/Login.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/EnvelopeList.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/EnvelopeDetails.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/CloudProviders.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/AddFieldsRecipients.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/AddFieldsProperties.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/AddFields.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/AddDocument.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/Preferences.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/Navigation.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/MessagesPrepare.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/Home.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/PrivateNote.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/Recipients.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/SendingPreferences.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/TemplateDetails.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/TemplateList.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/TemplatePrepare.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/pages/TemplateSending.coffee",
+		"/Users/carey.winslow/work/devApp/client/js/envelopes-common/templates-common.coffee",
+		"/Users/carey.winslow/work/devApp/test/data-tests/url-api-params.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/automation-style-guide.md",
+		"/Users/carey.winslow/work/devApp/README.md",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/templates/template.smoke.test.coffee",
+		"/Users/carey.winslow/work/devApp/templates/global/modal.jade",
+		"/Users/carey.winslow/work/devApp/client/js/global/session-alert.coffee",
+		"/Users/carey.winslow/work/devApp/client/css/base/modal.styl",
+		"/Users/carey.winslow/work/devApp/conf/settings.coffee",
+		"/Users/carey.winslow/work/devApp/client/css/base/fonts.styl",
+		"/Users/carey.winslow/work/devApp/client/js/global/modal.coffee",
+		"/Users/carey.winslow/work/devApp/templates/global/modal-save.jade",
+		"/Users/carey.winslow/work/devApp/server/routes/misc-util-routes.coffee",
+		"/Users/carey.winslow/work/devApp/test/client-side-unit/client-route-data.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/data-tests/envelope.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/data-tests/folders.test.coffee",
+		"/Users/carey.winslow/work/devApp/build/public/js/global.js",
+		"/Users/carey.winslow/work/devApp/test/unit/cluster.test.coffee",
+		"/Users/carey.winslow/work/devApp/common/filters-params-mapping.coffee",
+		"/Users/carey.winslow/work/devApp/server/models/envelopes-list.coffee",
+		"/Users/carey.winslow/work/devApp/common/utils.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/preferences/general/identity/personal-info/personal-info.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/run-tests.coffee",
+		"/Users/carey.winslow/work/devApp/test/delegate-tests.coffee",
+		"/Users/carey.winslow/work/devApp/node_modules/.bin/mocha",
+		"/Users/carey.winslow/work/devApp/node_modules/mocha/lib/runner.js",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/documents/details/document-details.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/lib/test-wrapper.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/templates/sending/sending.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/templates/details/details.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/templates/creation/creation.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/sending/prepare/recipients/recipients.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/sending/prepare/messages/messages.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/sending/prepare/documents/documents.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/sending/navigation/navigation.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/sending/fields/field-properties/properties.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/sending/fields/add-fields/add-fields.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/preferences/sending-prefs/document-settings/document-settings.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/preferences/sending-prefs/document-defaults/document-defaults.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/preferences/date-format/date-format.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/home/home.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/preferences/sending-prefs/consumer-disclosure/consumer-disclosure.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/documents/list/items-in-list.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/preferences/general/preferences-general.smoke.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/sending/advanced-options/advanced-options.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/preferences/general/connected-apps/connected-apps.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/documents/list/status-facets.smoke.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/preferences/general/contacts/contacts.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/preferences/general/regional/regional.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/preferences/general/identity/name-signature/name-signature.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/preferences/general/identity/id-card/id-card.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/node_modules/wd/lib/jsonwire-errors.js",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/documents/list/action-bar.hp.test.coffee",
+		"/Users/carey.winslow/work/devApp/test/ui-tests/navigation.test.coffee",
+		"/Users/carey.winslow/Library/Application Support/Sublime Text 3/Packages/User/CoffeeCompile.sublime-settings",
+		"/Users/carey.winslow/Library/Application Support/Sublime Text 3/Packages/CoffeeCompile/CoffeeCompile.sublime-settings",
+		"/Users/carey.winslow/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/carey.winslow/work/app/phantomjsdriver.log",
+		"/Users/carey.winslow/work/app/test/ui-tests/pages/Navigation.coffee",
+		"/Users/carey.winslow/work/app/mock/mock-api-requests/mock-api-endpoints.coffee",
+		"/Users/carey.winslow/work/app/test/ui-tests/sending/navigation/navigation.hp.test.coffee",
+		"/Users/carey.winslow/work/app/test/ui-tests/documents/list/action-bar.hp.test.coffee",
+		"/Users/carey.winslow/work/app/test/ui-tests/documents/list/items-in-list.hp.test.coffee",
+		"/Users/carey.winslow/work/app/test/ui-tests/pages/EnvelopeList.coffee",
+		"/Users/carey.winslow/work/app/test/helpers/api-creates.coffee",
+		"/Users/carey.winslow/work/app/server/utils/utils.coffee",
+		"/Users/carey.winslow/work/app/templates/global/envelope-simple.jade",
+		"/Users/carey.winslow/work/app/test/ui-tests/sending/prepare/messages/messages.hp.test.coffee",
+		"/Users/carey.winslow/work/app/server/middleware/rest.coffee",
+		"/Users/carey.winslow/work/app/templates/layout/main.jade",
+		"/Users/carey.winslow/work/app/server/routes/misc-util-routes.coffee",
+		"/Users/carey.winslow/work/app/client/js/documents-page/documents-page.coffee",
+		"/Users/carey.winslow/work/app/client/js/envelopes-common/filters.coffee",
+		"/Users/carey.winslow/work/app/client/js/send/fields/placed-field.coffee",
+		"/Users/carey.winslow/work/app/common/filters-params-mapping.coffee",
+		"/Users/carey.winslow/work/app/server/models/envelopes-list.coffee",
+		"/Users/carey.winslow/work/app/templates/documents-page/envelopes-static-filters.jade",
+		"/Users/carey.winslow/work/app/templates/home/dashboard.jade",
+		"/Users/carey.winslow/work/app/test/data-tests/envelope.test.coffee",
+		"/Users/carey.winslow/work/app/client/js/send/uploadifive.js",
+		"/Users/carey.winslow/work/app/common/utils.coffee",
+		"/Users/carey.winslow/work/app/test/ui-tests/documents/details/document-details.acc.test.coffee",
+		"/Users/carey.winslow/work/app/test/ui-tests/pages/TemplateList.coffee",
+		"/Users/carey.winslow/work/app/test/ui-tests/documents/details/document-details.hp.test.coffee",
+		"/Users/carey.winslow/work/app/test/ui-tests/pages/Recipients.coffee",
+		"/Users/carey.winslow/work/app/test/ui-tests/home/home.hp.test.coffee",
+		"/Users/carey.winslow/work/app/test/ui-tests/lib/test-wrapper.coffee",
+		"/Users/carey.winslow/work/app/test/ui-tests/sending/advanced-options/advanced-options.hp.test.coffee",
+		"/Users/carey.winslow/work/app/test/ui-tests/lib/DriverWrapper.coffee",
+		"/Users/carey.winslow/work/app/test/helpers/ought.coffee",
+		"/Users/carey.winslow/work/app/test/ui-tests/pages/AddDocument.coffee",
+		"/Users/carey.winslow/work/app/test/ui-tests/pages/AdvancedOptions.coffee",
+		"/Users/carey.winslow/work/app/test/ui-tests/sending/fields/field-properties/properties.hp.test.coffee",
+		"/Users/carey.winslow/work/app/run-tests.coffee",
+		"/Users/carey.winslow/work/app/test/ui-tests/sending/prepare/recipients/recipients.hp.test.coffee",
+		"/Users/carey.winslow/work/app/templates/documents-page/save-filter-button.jade",
+		"/Users/carey.winslow/work/app/templates/global/envelopes-header.jade",
+		"/Users/carey.winslow/work/app/templates/documents-page/envelope-details.jade",
+		"/Users/carey.winslow/work/app/client/js/global/router.coffee",
+		"/Users/carey.winslow/work/app/templates/global/folder-filters-list.jade"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"*.coffee, *.jade, *.styl",
+			"-build/, -node_modules/",
+			"-build/",
+			"",
+			"*.coffee, *.jade, *.styl",
+			"*.styl",
+			"*.dtyl",
+			"",
+			"test/data-tests",
+			"",
+			"test/**/*.smoke*",
+			"*.smoke.coffee",
+			"*.smoke.coffee*",
+			"*smoke*",
+			"",
+			"test/data-tests/",
+			"*.coffee",
+			"",
+			"node_modules/mocha/",
+			"",
+			"test/ui-tests/**/*hp*, test/ui-tests/**/*smoke*, -*sublime*, -*node_modules/*, -*.md",
+			"test/ui-tests/**/*hp*, test/ui-tests/**/*full*, -*sublime*, -*node_modules/*, -*.md",
+			"test/ui-tests/, -*sublime*, -*node_modules/*, -*.md",
+			"test/, -*sublime*, -*node_modules/*, -*.md",
+			"test/, -*sublime*, -*node_modules/*",
+			"test/, -*sublime*, -*node_modules*",
+			"test/, -*sublime*",
+			"test/",
+			"",
+			"ui-tests/**/*.test.coffee",
+			"ui-tests/",
+			"*.coffee,",
+			"*.test.coffee,",
+			"*.coffee,*.jade",
+			"-build/*,-node_modules/*,*.js",
+			"-build/*,-node_modules/*",
+			"-build/*",
+			"*.coffee,*.jade",
+			"",
+			"*.coffee,*.jade",
+			"*",
+			"*.coffee,*.jade",
+			"*.coffee",
+			"*.jade",
+			"*.coffee,*.jade",
+			"*.coffee",
+			"*.test.coffee",
+			"*.coffee",
+			"*.jade",
+			"*.coffee,*.jade",
+			"*.coffee",
+			"",
+			"*.coffee",
+			"*.hp.test.coffee",
+			"*.coffee,*.jade",
+			"*.coffee",
+			"",
+			"test/ui-test/",
+			"",
+			"test/ui-tests/",
+			"test/ui-tests/pages",
+			"test/ui-tests",
+			"",
+			"test/ui-test",
+			"ls/",
+			"**/ls/",
+			"jquery.js",
+			"/Users/carey.winslow/work/app/test/ui-tests/",
+			"/Users/carey.winslow/work/app/test",
+			"/Users/carey.winslow/work/app/client,/Users/carey.winslow/work/app/common,/Users/carey.winslow/work/app/conf,/Users/carey.winslow/work/app/scripts,/Users/carey.winslow/work/app/server,/Users/carey.winslow/work/app/templates,/Users/carey.winslow/work/app/test",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"trial",
+			"$1200        ",
+			"<~",
+			"-",
+			"$",
+			".5",
+			"+",
+			"*",
+			"+",
+			"user-disclosure-name",
+			"allowReassign",
+			"allowAcctNameReassign",
+			"allowReassign",
+			"DocuSign account name with disclosure account",
+			"updateModelFromBoundInputs",
+			"consumer",
+			"update",
+			"test1",
+			"intro",
+			"dev",
+			"dropbox",
+			"template",
+			"convertDate",
+			"AddFields",
+			"done) ->",
+			") ->",
+			"(done) ->",
+			"_getRecipientNames",
+			"connectToCloudProvider",
+			"ath",
+			"next error,",
+			"next error, filename",
+			"details.",
+			": (",
+			"heavier-font",
+			".panel-heading",
+			"panel-heading",
+			"title",
+			"titleg",
+			"title",
+			"session",
+			"modal-title-header",
+			"are you still",
+			"can create a template",
+			"skip",
+			"templates as envelopes",
+			"send ",
+			"send",
+			"it.skip '",
+			"\\.skip",
+			"it.skip '",
+			"can move an env",
+			"send",
+			"should",
+			"send",
+			"sends",
+			"with API",
+			"Envelope model: with API",
+			"it.skip '",
+			"router models",
+			"testType",
+			"testT",
+			"urlToApiParamsMapping",
+			"describe.skip",
+			"\\.skip",
+			"\\.only",
+			"MAR-1843",
+			"MAR-1843\\",
+			"runTimes",
+			"runCount",
+			"self.runCount",
+			"self.run",
+			"Running UI",
+			"Loading test file",
+			"module.",
+			"codeExtension",
+			"TESTLEVEL",
+			"args.l",
+			"l",
+			"it.skip '",
+			"@bug",
+			"2937",
+			"MAR-3220",
+			"MAR-2937",
+			"it.skip '",
+			"it.skip 'skp-TND",
+			"it.skip '",
+			"it.skip 'skp-TND; ",
+			"it.skip 'skp",
+			"it.skip 'skp-TUN; ",
+			"it.skip '",
+			"2540",
+			"it.skip '",
+			"it.o ",
+			"it '",
+			"skip",
+			"it '",
+			"it.skip \"",
+			"it \"",
+			"skip",
+			"it.skip '",
+			"it.skip",
+			"# @TODO: finish implementing once errors have been added",
+			"it.skip '",
+			"# @TODO: needs test case id",
+			"# skipped until test account has enableSignOnPaperOverride set to true",
+			");",
+			"   (\\.|\\d)",
+			"  ( \\d)",
+			"3033",
+			"# @bug: blocked by MAR-3035",
+			"it.skip",
+			"(describe|it)\\.skip",
+			"skipped@bug",
+			"skipped-TND",
+			"(describe|it)\\.skip",
+			"getSignatureImageSrc",
+			"skip",
+			"it.skip '",
+			"it.skip 'should",
+			"it.skip",
+			"(describe|it)\\.skip",
+			"(describe|it)\\.skip(.+)(?!skipped-TND)",
+			"(describe|it)\\.skip(.+)(?!skipped)",
+			"(describe|it)\\.skip(.+)(?!(skipped))",
+			"(describe|it)\\.skip(.{1,2})[^(skipped)]",
+			"(describe|it)\\.skip(.+)[^(skipped)]",
+			"(describe|it)\\.skip.+[^skipped]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"skp-BUG",
+			"skp-TND",
+			"canceled",
+			"EnvelopeDetails",
+			"checkInnerHtml"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "readme.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close"
+							],
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 806.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.settings_documentation_panel":
+	{
+		"height": 118.0
+	},
+	"project": "barfstone.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"readme.md"
+			],
+			[
+				"scrip",
+				"templates/layout/script.jade"
+			],
+			[
+				"dr",
+				"test/ui-tests/lib/DriverWrapper.coffee"
+			],
+			[
+				"mod",
+				"templates/global/modal.jade"
+			],
+			[
+				"modals",
+				"templates/global/modal-save.jade"
+			],
+			[
+				".smoke",
+				"test/ui-tests/templates/template.smoke.test.coffee"
+			],
+			[
+				"s",
+				"conf/settings.coffee"
+			],
+			[
+				"filter-para",
+				"common/filters-params-mapping.coffee"
+			],
+			[
+				"test/page.coffee",
+				"test/ui-tests/pages/EnvelopeDetails.coffee"
+			],
+			[
+				"runner.js",
+				"node_modules/mocha/lib/runner.js"
+			],
+			[
+				"autm",
+				"test/automation-style-guide.md"
+			],
+			[
+				"addf",
+				"test/ui-tests/pages/AddFields.coffee"
+			],
+			[
+				"styleg",
+				"test/automation-style-guide.md"
+			],
+			[
+				"jsonwire",
+				"node_modules/wd/lib/jsonwire-errors.js"
+			],
+			[
+				"pref",
+				"test/ui-tests/pages/Preferences.coffee"
+			],
+			[
+				"sett",
+				"conf/settings.coffee"
+			],
+			[
+				"el",
+				"test/ui-tests/pages/EnvelopeList.coffee"
+			],
+			[
+				"clust",
+				"test/unit/cluster.test.coffee"
+			],
+			[
+				"tesw",
+				"test/ui-tests/lib/test-wrapper.coffee"
+			],
+			[
+				"home.te",
+				"test/ui-tests/home/home.hp.test.coffee"
+			],
+			[
+				"nav",
+				"test/ui-tests/pages/Navigation.coffee"
+			],
+			[
+				"nav.hp",
+				"test/ui-tests/sending/navigation/navigation.hp.test.coffee"
+			],
+			[
+				"ap",
+				"test/helpers/api-creates.coffee"
+			],
+			[
+				"api",
+				"test/helpers/api-creates.coffee"
+			],
+			[
+				"enl",
+				"test/ui-tests/pages/EnvelopeList.coffee"
+			],
+			[
+				"utils",
+				"server/utils/utils.coffee"
+			],
+			[
+				"util",
+				"common/utils.coffee"
+			],
+			[
+				"action.hp",
+				"test/ui-tests/documents/list/action-bar.hp.test.coffee"
+			],
+			[
+				"list.hp",
+				"test/ui-tests/documents/list/items-in-list.hp.test.coffee"
+			],
+			[
+				"detail.hp",
+				"test/ui-tests/documents/details/document-details.hp.test.coffee"
+			],
+			[
+				"pa/re",
+				"test/ui-tests/pages/Recipients.coffee"
+			],
+			[
+				"fiel.hp",
+				"test/ui-tests/sending/fields/field-properties/properties.hp.test.coffee"
+			],
+			[
+				"add",
+				"test/ui-tests/pages/AddDocument.coffee"
+			],
+			[
+				"adv",
+				"test/ui-tests/pages/AdvancedOptions.coffee"
+			],
+			[
+				"dava.test",
+				"test/ui-tests/sending/advanced-options/advanced-options.hp.test.coffee"
+			],
+			[
+				"router",
+				"client/js/global/router.coffee"
+			],
+			[
+				"route",
+				"common/route-data.coffee"
+			],
+			[
+				"ou",
+				"test/helpers/ought.coffee"
+			],
+			[
+				"n",
+				"test/ui-tests/pages/Navigation.coffee"
+			],
+			[
+				"drw",
+				"test/ui-tests/lib/DriverWrapper.coffee"
+			],
+			[
+				"rec.hp",
+				"test/ui-tests/sending/prepare/recipients/recipients.hp.test.coffee"
+			],
+			[
+				"login-f",
+				"test/ui-tests/login-form.test.coffee"
+			],
+			[
+				"p/nav",
+				"test/ui-tests/pages/Navigation.coffee"
+			],
+			[
+				"ui",
+				"test/ui-tests/lib/ui-defaults.coffee"
+			],
+			[
+				"ex",
+				"test/helpers/external-files.coffee"
+			],
+			[
+				"mes.hp",
+				"test/ui-tests/sending/prepare/messages/messages.hp.test.coffee"
+			],
+			[
+				"send.hp",
+				"test/ui-tests/sending/prepare/documents/documents.hp.test.coffee"
+			],
+			[
+				"p/na",
+				"test/ui-tests/pages/Navigation.coffee"
+			],
+			[
+				".hp.te",
+				"test/ui-tests/sending/navigation/navigation.hp.test.coffee"
+			],
+			[
+				"pa/end",
+				"test/ui-tests/pages/EnvelopeDetails.coffee"
+			],
+			[
+				"details.te",
+				"test/ui-tests/documents/details/document-details.hp.test.coffee"
+			],
+			[
+				"conflocal",
+				"conf/locales/en.js"
+			],
+			[
+				"adv.acc",
+				"test/ui-tests/sending/advanced-options/advanced-options.acc.test.coffee"
+			],
+			[
+				"ad.hp",
+				"test/ui-tests/sending/advanced-options/advanced-options.hp.test.coffee"
+			],
+			[
+				"envli",
+				"test/ui-tests/pages/EnvelopeList.coffee"
+			],
+			[
+				"envd.c",
+				"test/ui-tests/pages/EnvelopeDetails.coffee"
+			],
+			[
+				"run",
+				"run-tests.coffee"
+			],
+			[
+				"app",
+				"server/boot/app.coffee"
+			],
+			[
+				"testh",
+				"test/helpers/test-harness.coffee"
+			],
+			[
+				"p/ad",
+				"test/ui-tests/pages/AdvancedOptions.coffee"
+			],
+			[
+				"drwa",
+				"test/ui-tests/lib/DriverWrapper.coffee"
+			],
+			[
+				".hp",
+				"test/ui-tests/documents/list/action-bar.hp.test.coffee"
+			],
+			[
+				"dd.hp",
+				"test/ui-tests/documents/details/document-details.hp.test.coffee"
+			],
+			[
+				"dele",
+				"test/delegate-tests.coffee"
+			],
+			[
+				"ps/envde",
+				"test/ui-tests/pages/EnvelopeDetails.coffee"
+			],
+			[
+				"gen-sen",
+				"test/ui-tests/generic-sending/basic-add-fields.test.coffee"
+			],
+			[
+				"fields.hp",
+				"test/ui-tests/sending/fields/add-fields/add-fields.hp.test.coffee"
+			],
+			[
+				"pages/",
+				"test/ui-tests/pages/AddFields.coffee"
+			],
+			[
+				"na.hp",
+				"test/ui-tests/sending/navigation/navigation.hp.test.coffee"
+			],
+			[
+				"prep.c",
+				"client/js/send/prepare.coffee"
+			],
+			[
+				"em",
+				"client/js/global/envelope-model.coffee"
+			],
+			[
+				"do",
+				"client/js/send/document-advanced-options.coffee"
+			],
+			[
+				"hom.co",
+				"client/js/home/home.coffee"
+			],
+			[
+				"oug",
+				"test/helpers/ought.coffee"
+			],
+			[
+				"p/rec",
+				"test/ui-tests/pages/Recipients.coffee"
+			],
+			[
+				"a.hp",
+				"test/ui-tests/sending/advanced-options/advanced-options.hp.test.coffee"
+			],
+			[
+				"n.hp",
+				"test/ui-tests/sending/navigation/navigation.hp.test.coffee"
+			],
+			[
+				"na",
+				"test/ui-tests/pages/Navigation.coffee"
+			],
+			[
+				"a-o.",
+				"test/ui-tests/sending/advanced-options/advanced-options.hp.test.coffee"
+			],
+			[
+				"pa/adv",
+				"test/ui-tests/pages/AdvancedOptions.coffee"
+			],
+			[
+				"pa/rec",
+				"test/ui-tests/pages/Recipients.coffee"
+			],
+			[
+				"drive",
+				"test/ui-tests/lib/DriverWrapper.coffee"
+			],
+			[
+				"me.hp",
+				"test/ui-tests/sending/prepare/messages/messages.hp.test.coffee"
+			],
+			[
+				"pages/.co",
+				"test/ui-tests/pages/Recipients.coffee"
+			],
+			[
+				"mes",
+				"test/ui-tests/pages/MessagesPrepare.coffee"
+			],
+			[
+				"mess",
+				"test/ui-tests/pages/MessagesPrepare.coffee"
+			],
+			[
+				"con/se",
+				"conf/settings.coffee"
+			],
+			[
+				"rechp",
+				"test/ui-tests/sending/prepare/recipients/recipients.hp.test.coffee"
+			],
+			[
+				"do.hp",
+				"test/ui-tests/sending/prepare/documents/documents.hp.test.coffee"
+			],
+			[
+				"r",
+				"README.md"
+			],
+			[
+				"gr",
+				"Gruntfile.coffee"
+			],
+			[
+				".coff",
+				"backbone.coffee"
+			],
+			[
+				"jq",
+				"test/vendor/jquery.js"
+			],
+			[
+				"rec/ha",
+				"test/ui-tests/sending/prepare/recipients/happy-path.test.coffee"
+			],
+			[
+				"ut",
+				"common/utils.coffee"
+			],
+			[
+				"driver",
+				"test/ui-tests/lib/DriverWrapper.coffee"
+			],
+			[
+				"u",
+				"common/utils.coffee"
+			],
+			[
+				"s/u",
+				"server/utils/utils.coffee"
+			],
+			[
+				"uti",
+				"common/utils.coffee"
+			],
+			[
+				"gen-se/",
+				"test/ui-tests/generic-sending/add-document.test.coffee"
+			],
+			[
+				"re",
+				"README.md"
+			],
+			[
+				"extrf",
+				"test/helpers/external-files.coffee"
+			],
+			[
+				"ui-",
+				"test/ui-tests/lib/ui-defaults.coffee"
+			],
+			[
+				"ui-test/rec",
+				"test/ui-tests/sending/recipients.test.coffee"
+			],
+			[
+				"rec.te",
+				"test/data-tests/recipients.test.coffee"
+			],
+			[
+				"event",
+				"node_modules/mocha/lib/browser/events.js"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"ui-t/rec.tes",
+				"test/ui-tests/sending/recipients.test.coffee"
+			],
+			[
+				"rec.t",
+				"test/data-tests/recipients.test.coffee"
+			],
+			[
+				"data.",
+				"test/data-tests/data.test.coffee"
+			],
+			[
+				"tes/ui/pa/re",
+				"test/ui-tests/pages/Recipients.coffee"
+			],
+			[
+				"sendrec",
+				"test/ui-tests/sending/recipients.test.coffee"
+			],
+			[
+				"tewr",
+				"test/ui-tests/lib/test-wrapper.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/carey.winslow/c_personal/nonCodeProjects/domesticBliss/domesticBliss.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
