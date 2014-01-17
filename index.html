@@ -14,45 +14,53 @@
     width: 6.5em;
     float: left;
   }
-  .p1 {
+  #player-arena .card {
     border: .3em solid purple;
     margin: 5px
   }
 
-  .p2 {
+  #enemy-arena .card {
     border: .3em solid green;
     margin: 5px
   }
-
-  #p1Arena {
+  
+  #enemy-arena {
     clear: both;
     height: 1px;
     margin-bottom: 50px;
   }
 
-  #p2Arena {
+  #player-arena {
     position: absolute;
     bottom: 0;
     clear: both;
+  }
+  .card-container {
+    width: 8em;
+    display: inline-block;
   }
 
   .title {
     font-weight: bold;
     text-align: center;
     display: block;
+    padding-top: 10px;
   }
 
-  .attack {
+  .damage {
     position: absolute;
     bottom: 0;
     left: 0;
+    padding-left: 5px;  
+    padding-bottom: 5px;  
   }
 
   .health {
     position: absolute;
     bottom: 0;
     right: 0;
-
+    padding-right: 5px;
+    padding-bottom: 5px;  
   }
 
 </style>
@@ -61,10 +69,11 @@
 <body>
 
   <div id='container'>
-    <div id="p1Arena"></div>
-    <div id="p2Arena"></div>
+    <div id="enemy-arena"></div>
+    <div id="player-arena"></div>
   </div>
   <script src="lib/jquery.js"></script>
+  <script src="lib/jquery-ui.js"></script>
   <script src="lib/lodash.js"></script>
   <script src="js/main.js"></script>
 </body>

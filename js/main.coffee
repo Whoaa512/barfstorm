@@ -1,75 +1,125 @@
 # $ = require 'jquery'
 # _ = require 'lodash'
+console.log Date.now()
 
-p1Cards = []
-p2Cards = []
-$container = $ '#container'
-
-randomName = ->
-  _.sample [
-    'kia'
-    'doug'
-    'cj'
-    'bill'
-    'anitra'
-    'eric'
-    'kyle'
-    'brian'
+randomName = do ->
+  name = _.shuffle [
+    'Abraham'
+    'Seymore'
+    'Isadore'
+    'Guy'
+    'Anitra'
+    'Eric'
+    'Yorick'
+    'Hammurabi'
+    'Ugdor'
+    'Olaf'
   ]
+  -> name.pop()
 
-randomAdj = ->
-  _.sample [
-    'terrifying'
-    'humongous'
-    'puny'
-    'ridiculous'
-    'average'
+randomAdj = do ->
+  adj = _.shuffle [
+    'Terrifying'
+    'Humongous'
+    'Puny'
+    'Ridiculous'
+    'Average'
+    'Inflated'
+    'Over-Confident'
+    'Pompous'
+    'Irritating'
+    'Flatulent'
   ]
+  -> adj.pop()
 
-randomTitle = ->
-  _.sample [
-    'babooshka'
-    'jester'
-    'chicken tosser'
-    'troll'
-    'single white man'
+randomTitle = do ->
+  title = _.shuffle [
+    'Babooshka'
+    'Jester'
+    'Chicken Tosser'
+    'Troll'
+    'Single White Man'
+    'Lay-About'
+    'Zealot'
+    'Windbag'
+    'Huffalump'
+    'Weasel'
   ]
+  -> title.pop()
+
+board =
+  $container: $('#container')
+
+class SpellCaster
+  constructor: (@$el) ->
+    @$el ||= $('div')
+    @$el.appendTo board.$container
+    @hand = new Hand(@)
+
+class Enemy extends SpellCaster
+  turn: ->
+
+class Player extends SpellCaster
+  turn: ->
+    # _.filter @hand.cards, (c,i) ->
+    #     console.log(c)
+    #     return c.health > 0
+    #   .forEach (c,i)->
+    #     setTimeout (-> c.attack(game.enemy)) , 1500 * i
+  
+class Hand
+  constructor: (@owner) ->
+    @cards = []
+    _.times 5, (i) =>
+      @cards.push(Card.createRandom @owner, i)
+      @render() 
+  render: () ->
+    _.forEach @cards, (c, i)->
+      c.render()
 
 class Card
-  constructor: (@title, @attack, @health, @owner) ->
-    @$el = $ "<div class='card #{@owner}'>"
+  constructor: (@title, @damage, @health, @owner, @index) ->
+    @alive = true
+    wrapper = $('<div class="card-container">').appendTo @owner.$el
+    @$el = $("<div class='card'>").appendTo wrapper
+    @$el.on 'click', ()=>
+      @attack()
+  attack: ()->
+    target = game.enemy.hand.cards[@index]
+    if target.alive
+      @$el.effect('shake', direction: 'down', distance: 100, duration: 200)
+      target.takeDamage(@damage, @damage_type)
   render: ->
-    @$el.html [
+    @$el.html([
       "<span class='title'>#{@title}</span>"
-      "<span class='attack'>a: #{@attack}</span>"
+      "<span class='damage'>a: #{@damage}</span>"
       "<span class='health'>h: #{@health}</span>"
-    ]
-    $("##{@owner}Arena").append @$el
+    ])
+  takeDamage: (d)->
+    @health-= d
+    if @health <= 0
+      @alive = false
+      @$el.effect 'highlight', color: 'red', complete: => @$el.effect('explode')
+    else
+      @$el.effect('highlight', color: 'red' , complete: => @render() )
 
-
-createRandomCard = (owner) ->
-  attack = ~~(Math.random() * 3) + 1
-  health = ~~(Math.random() * 3)  + 1
+Card.createRandom = (owner, i) ->
+  damage = ~~(Math.random() * 3) + 2
+  health = ~~(Math.random() * 3) + 2
   adj = randomAdj()
-  if adj in ['terrifying', 'humongous'] then attack = 4
-  new Card "#{randomName()} the #{adj} #{randomTitle()}",attack,health,owner
+  title = randomTitle()
+  if adj in ['Terrifying', 'Humongous'] then damage = 5
+  if adj in ['Ridiculous', 'Puny'] then damage = 1 
+  if title in ['Troll', 'Huffalump'] then health = 5
+  if title in ['Babooshka', 'Lay-About'] then health = 1
 
+  new Card "#{randomName()} the #{adj} #{title}", damage, health, owner, i
 
-_.times 5, ->
-  p1Cards.push createRandomCard 'p1'
-  p2Cards.push createRandomCard 'p2'
+class Game
+  constructor: () ->
+    @player = new Player( $('#player-arena') )
+    @enemy = new Enemy($('#enemy-arena'))
+    @player.turn()
+    @enemy.turn()
 
-
-
-
-_.forEach p1Cards, (item, key, list) ->
-  # console.log arguments
-  item.render()
-
-_.forEach p2Cards, (item, key, list) ->
-  # console.log arguments
-  item.render()
-
-# @todo: make the rest of the game engine
-# turn = ->
-#   _.
+game = new Game
